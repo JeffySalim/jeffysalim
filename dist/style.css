@@ -953,6 +953,11 @@ video {
   padding-right: 1.5rem;
 }
 
+.px-5 {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
 .pl-8 {
   padding-left: 2rem;
 }
